@@ -8,6 +8,7 @@ The points below are for the short term development of Lite XL.
 - improve and ease description of nested sub-syntax for code highlighting
 - mode to open a single file without the treeview pane
 - possibility to add a top-level file in treeview as we can already done with directories
+- fix keymap binding on non-US keyboard when the required key has to be done using shift
 
 ### Code simplification
 
