@@ -10,6 +10,10 @@ The points below are for the short term development of Lite XL.
 - possibility to add a top-level file in treeview as we can already done with directories
 - fix keymap binding on non-US keyboard when the required key has to be done using shift
 
+### Problems to fix
+
+- on Windows, when in borderless mode, the title region gets "dirty" when the window lost the focus
+
 ### Code simplification
 
 - remove the AGG library in favor of a simple C implementation directly using Freetype functions
